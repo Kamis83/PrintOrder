@@ -1,6 +1,5 @@
 package com.optimization.ratio;
 
-import com.optimization.Layout;
 import com.optimization.LayoutRatio;
 
 public interface RatioDetector {
